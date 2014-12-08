@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wedding_dress_id: 1
+  wedding_dress_name: MyString
+  style_id: 
+  fabric_id: 
+  designer_id: 
+
+two:
+  wedding_dress_id: 1
+  wedding_dress_name: MyString
+  style_id: 
+  fabric_id: 
+  designer_id: 

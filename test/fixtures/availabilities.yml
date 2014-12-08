@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  availability_id: 1
+  availability_price: MyString
+  availability_size_range: MyString
+  wedding_dress_id: 
+  retailer_id: 
+
+two:
+  availability_id: 1
+  availability_price: MyString
+  availability_size_range: MyString
+  wedding_dress_id: 
+  retailer_id: 

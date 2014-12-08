@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  retailer_id: 1
+  retailer_name: MyString
+  retailer_address: MyString
+  retailer_street: MyString
+  retailer_city: MyString
+  retailer_state: MyString
+  retailer_website: MyString
+  retailer_phone: MyString
+  retailer_hours: MyString
+
+two:
+  retailer_id: 1
+  retailer_name: MyString
+  retailer_address: MyString
+  retailer_street: MyString
+  retailer_city: MyString
+  retailer_state: MyString
+  retailer_website: MyString
+  retailer_phone: MyString
+  retailer_hours: MyString
