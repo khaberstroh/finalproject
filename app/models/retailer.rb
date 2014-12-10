@@ -1,4 +1,4 @@
 class Retailer < ActiveRecord::Base
-  has_many :availabilitys
-  has_many :wedding_dresss, :through => :availability
+  has_many :availabilities
+  has_many :wedding_dresses, :through => :availability
 end
